@@ -26,7 +26,7 @@ Before running this project, ensure you have the following installed:
 
 ## Setup
 
-### 1. Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Hospital-Database.git
